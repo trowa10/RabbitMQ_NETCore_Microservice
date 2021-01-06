@@ -1,0 +1,12 @@
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.deps.json
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.csproj.CopyComplete
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\TWWAdmin01\source\repos\MicroRabbit\MicroRabbit.Domain.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
